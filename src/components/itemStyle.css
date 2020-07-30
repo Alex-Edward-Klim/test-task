@@ -1,0 +1,19 @@
+.item {
+  display: inline-block;
+  height: 300px;
+  width: 200px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  background-color: grey;
+  overflow: hidden;
+  text-align: center;
+}
+
+.brand, .model {
+  margin: 0 10px;
+  font-size: 2em;
+}
+
+.picture {
+  width: 200px;
+}

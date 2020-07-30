@@ -1,0 +1,15 @@
+.mainContentWrapper {
+  padding: 0 2%;
+}
+
+.websiteDescription {
+  text-align: justify;
+}
+
+.lastItemsAndNewsWrapper {
+  text-align: center;
+}
+
+.fiveLastItems, .fiveLastNews {
+  border: 1px solid white;
+}
